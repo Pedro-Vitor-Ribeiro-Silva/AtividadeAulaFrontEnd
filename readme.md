@@ -125,3 +125,36 @@ Pesquisar 10 projetos no GitHub que consomem APIs públicas diferentes em suas a
 | **React Giphy Searchbox** | [GitHub](https://github.com/sergiop/react-giphy-searchbox) | Componente de busca que retorna GIFs e stickers do Giphy em um grid no estilo masonry com scroll infinito. | React / Fetch API | Giphy API |
 
 ---
+
+## 5ª Aula
+
+---
+
+### 🔹 Atividade 01 — Utilização de API Express no Front-end
+
+**Descrição:**
+Desenvolvimento de uma aplicação utilizando uma **API criada com Express.js** e realizando sua integração com o **Front-end**. A atividade teve como objetivo praticar o consumo de uma API própria, realizando a comunicação entre o Front-end e o Back-end por meio de requisições HTTP.
+
+O projeto foi dividido em dois repositórios: um destinado ao **Front-end**, responsável pela interface e pelo consumo da API, e outro destinado ao **Back-end**, responsável pela criação e disponibilização da API utilizando Express.js.
+
+**Tecnologias:**
+
+* Express.js
+* Node.js
+* React
+* API REST
+* Vercel
+* Render
+
+**🔗 Links da Atividade:**
+
+**Front-end:**
+
+* [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/UsandoApiExpressAulaFrontEnd.git)
+* [Deploy Vercel](https://usando-api-express-aula-front-end.vercel.app/)
+
+**Back-end:**
+
+* [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/ApiTesteExpressAulaFrontEnd.git)
+* [Deploy Render](https://apitesteexpressaulafrontend.onrender.com)
+
