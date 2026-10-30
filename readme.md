@@ -191,3 +191,46 @@ O projeto escolhido foi uma **Catraca com Reconhecimento Facial**, e todo o proc
 **🔗 Links da Atividade:**
 - [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/Aula-06-frontend-SENAI-Faculdade)
 - [Documentação da Gestão (Atividade.md)](https://github.com/Pedro-Vitor-Ribeiro-Silva/Aula-06-frontend-SENAI-Faculdade/blob/main/Atividade.md)
+
+---
+
+## 7ª Aula
+
+---
+
+### 🔹 Atividade 01 — Box Model e Flexbox
+
+**Descrição:**
+Criação de um projeto com os arquivos `index.html` e `style.css`, incluindo o CSS de forma **externa** ao HTML através da tag `<link>`. Foram adicionados **20 elementos** com valores atribuídos em todas as propriedades do **Box Model** (Content, Padding, Border e Margin) e utilizadas **20 propriedades de Flexbox** para organizar os elementos de forma responsiva.
+
+**O que foi desenvolvido:**
+- CSS externo vinculado com `<link rel="stylesheet" href="style.css">`, sem estilos in-line ou internos
+- 20 caixas (`.caixa-1` até `.caixa-20`) com Content (`width`, `height`), Padding, Border e Margin declarados por extenso
+- 20 propriedades de Flexbox (`flex-direction`, `justify-content`, `align-items`, `flex-wrap`, `gap`, entre outras)
+- Layout responsivo com breakpoints para desktop, tablet e mobile
+
+**Tecnologias:**
+- HTML5 / CSS3
+
+---
+
+### 🔹 Atividade 02 — Tailwind CSS
+
+**Descrição:**
+Criação de um projeto utilizando pelo menos **30 classes diferentes do Tailwind CSS**, aplicadas a cores, tipografia, espaçamentos, dimensões, bordas, posicionamento, flexbox, grid e responsividade. A entrega foi documentada em Markdown com prints do código, da aplicação em funcionamento e a lista das classes utilizadas com suas respectivas funções.
+
+**O que foi desenvolvido:**
+- Página completa com navbar, hero, cards, comparativo *CSS manual x Tailwind*, formulário e footer
+- **189 classes distintas** do Tailwind CSS cobrindo as 9 categorias exigidas, sem nenhuma regra CSS própria
+- Layout responsivo com os prefixos `md:` e `lg:` (abordagem Mobile First)
+- Tailwind carregado via **Play CDN**
+
+**Tecnologias:**
+- HTML5 / Tailwind CSS 4
+
+---
+
+**🔗 Links da Aula:**
+- [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd)
+- [Atividade 01 — Box Model e Flexbox](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-01-boxmodel-flexbox)
+- [Atividade 02 — Tailwind CSS](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-02-tailwind)
