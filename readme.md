@@ -198,6 +198,12 @@ O projeto escolhido foi uma **Catraca com Reconhecimento Facial**, e todo o proc
 
 ---
 
+As duas atividades desta aula estão no mesmo repositório, cada uma em sua própria pasta.
+
+**Repositório da aula (Atividades 01 e 02):** [aula-07-FrontEnd](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd)
+
+---
+
 ### 🔹 Atividade 01 — Box Model e Flexbox
 
 **Descrição:**
@@ -211,6 +217,9 @@ Criação de um projeto com os arquivos `index.html` e `style.css`, incluindo o 
 
 **Tecnologias:**
 - HTML5 / CSS3
+
+**🔗 Links da Atividade:**
+- [Pasta no repositório (`atividade-01-boxmodel-flexbox`)](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-01-boxmodel-flexbox)
 
 ---
 
@@ -228,9 +237,5 @@ Criação de um projeto utilizando pelo menos **30 classes diferentes do Tailwin
 **Tecnologias:**
 - HTML5 / Tailwind CSS 4
 
----
-
-**🔗 Links da Aula:**
-- [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd)
-- [Atividade 01 — Box Model e Flexbox](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-01-boxmodel-flexbox)
-- [Atividade 02 — Tailwind CSS](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-02-tailwind)
+**🔗 Links da Atividade:**
+- [Pasta no repositório (`atividade-02-tailwind`)](https://github.com/Pedro-Vitor-Ribeiro-Silva/aula-07-FrontEnd/tree/main/atividade-02-tailwind)
