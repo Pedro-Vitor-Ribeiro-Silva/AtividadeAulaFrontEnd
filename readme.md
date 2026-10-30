@@ -158,3 +158,36 @@ O projeto foi dividido em dois repositórios: um destinado ao **Front-end**, res
 * [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/ApiTesteExpressAulaFrontEnd.git)
 * [Deploy Render](https://apitesteexpressaulafrontend.onrender.com)
 
+
+---
+
+## 6ª Aula
+
+---
+
+### 🔹 Atividade 01 — Gestão do Projeto Integrador (Projetos Front-End)
+
+**Descrição:**
+Planejamento e gestão das tarefas do **Projeto Integrador Interdisciplinar** aplicando os conceitos de gestão de projetos Front-End vistos em aula: gestão de requisitos, gestão do backlog, priorização, estimativas, *Definition of Done* e Scrum.
+
+O projeto escolhido foi uma **Catraca com Reconhecimento Facial**, e todo o processo de gestão foi documentado em um arquivo Markdown, utilizando um board Kanban para acompanhar o andamento do projeto.
+
+**O que foi desenvolvido:**
+- **Product Backlog** com as funcionalidades do sistema (captura de imagem, treinamento do modelo facial, cadastro de usuários, logs de acesso, dashboard)
+- **Prioridades** definidas em Alta, Média e Baixa com base no valor de negócio e dependências técnicas
+- **Tarefas e Estimativas** — divisão das histórias em tarefas menores com estimativa de esforço
+- **Sprint** — seleção dos itens de maior prioridade para o ciclo atual
+- **Quadro Kanban** com as colunas *To Do*, *In Progress*, *Review/Test* e *Done*
+- **Estratégia de Branches** — `main`, `develop` e `feature/nome-da-tarefa`
+- **Critérios de Conclusão (Definition of Done)** — código implementado, testado, revisado via Pull Request e integrado
+
+**Conceitos aplicados:**
+- Gestão de Requisitos (Requisito → User Story → Tarefas)
+- Gestão do Backlog
+- Gestão de Prioridade e Estimativa
+- Definition of Done
+- Scrum / Kanban
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub](https://github.com/Pedro-Vitor-Ribeiro-Silva/Aula-06-frontend-SENAI-Faculdade)
+- [Documentação da Gestão (Atividade.md)](https://github.com/Pedro-Vitor-Ribeiro-Silva/Aula-06-frontend-SENAI-Faculdade/blob/main/Atividade.md)
